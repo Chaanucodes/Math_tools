@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find Square</string>
+    <string name="find_square_or_cube">Find square and more</string>
+    <string name="add_value"><![CDATA[Add Value ->]]></string>
+</resources>
